@@ -20,7 +20,7 @@ A total of four attempts were untaken to attempt to achieve the 75% accuracy. Ho
 ### **Models:**
 The first model used two hidden layers with 50 and 36 neurons respectively and 100 training epochs. An accuracy of 73.56% was achieved. 
 
-![Getting Started](images/Model_1.png)
+![Getting Started](/images/Model_1.png)
 
 ---
 
