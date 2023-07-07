@@ -20,7 +20,7 @@ A total of four attempts were untaken to attempt to achieve the 75% accuracy. Ho
 ### **Models:**
 The first model used two hidden layers with 50 and 36 neurons respectively and 100 training epochs. An accuracy of 73.56% was achieved. 
 
-![Getting Started](/images/Model_1.png)
+![Getting Started](Images/Model_1.png)
 
 ---
 
@@ -30,19 +30,19 @@ The following models all used a higher cutoff value for both the "APPLICATION_TY
 
 The second model additionally had increased neurons of 65 and 50 neurons and the training epochs were increased to 150. An accuracy of 72.43% was achieved. 
 
-![Getting Started](images/Model_2.png)
+![Getting Started](Images/Model_2.png)
 
 ---
 
 For the third model, an additional hidden layer was added and the neurons were 35, 30, and 35 respectively for each layer. The additional third layer also used "relu" as an activation function. The training epochs were also increased to 200. An accuracy of 72.33% was achieved. 
 
-![Getting Started](images/Model_3.png)
+![Getting Started](Images/Model_3.png)
 
 --- 
 
 The fourth and final model only had an increased number of neurons and training epochs. The neurons were 40 for each hidden layer and training epochs were again increased to 250. An accuracy of 73.04% was achieved. 
 
-![Getting Started](images/Model_4.png)
+![Getting Started](Images/Model_4.png)
 
 
 ## **Summary**
