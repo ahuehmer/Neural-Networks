@@ -10,7 +10,7 @@ The purpose of this challenge was to create a machine learning model that could 
 ### Data Preprocessing
 The target variable for this model is the "IS_SUCCESSFUL" column, while the others are the features. Both the "EIN" and "NAME" column were removed, as they did not have any relevant information for the analysis. 
 
-![Getting Started](Images/Columns)
+![Getting Started](Images/Columns.png)
 
 ### Compiling, Training, and Evaluating the Model
 A total of four attempts were untaken to attempt to achieve the 75% accuracy. However, none of the models reached this level of accuracy. All models used "relu" as the activation function for the hidden layers and "sigmoid", as the activation function for the output layer, as these are good functions for binary classification problems. 
